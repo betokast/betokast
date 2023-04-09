@@ -4,8 +4,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roberto.castro.1976)
 
 ![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=betokast&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betokast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betokast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I study
 <div style="display: inline_block"><br/>
