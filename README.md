@@ -26,6 +26,7 @@
 - Learn
 - Movies and series
 - Read
-- Listening to music, especially rock n'roll
+- Listen to music, especially rock n'roll
 - Walk
+- Travel
 
