@@ -1,7 +1,7 @@
 # Hello! I'm Roberto Castro 🤘
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertocastro76/){target="_blank"}
-[![Linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roberto.castro.1976){target="_blank"}
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertocastro76/)
+[![Linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roberto.castro.1976)
 
 ![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=betokast&show_icons=true&theme=cobalt)
 
